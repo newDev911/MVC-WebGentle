@@ -1,1 +1,3 @@
 * MVC 5 Web API Controller can return view
+* Nullable parameters can be used in controller to bind null values
+* 'MVC 5 Controller with read/write actions' auto generates all required CRUD operation methods
